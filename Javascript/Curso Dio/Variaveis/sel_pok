@@ -1,0 +1,7 @@
+let pkm = "pikachu"
+
+pkm.total_life_points = 25; pkm.life_points = 0; pkm.gender = "M"; pkm.selectable = false
+let y = true
+const slot_1 = pkm
+
+console.log(slot_1.total_life_points)

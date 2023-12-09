@@ -1,0 +1,11 @@
+let comida = "bolo de fubá"
+
+let acucar = "açucar mascavo"
+let pri_ing = "fubá"
+let sec_ing = "ovo caipira"
+
+const receita = "\n\n∙" + acucar + "\n∙" + pri_ing + "\n∙" + sec_ing
+
+const greeting = "Bem vindo netinho, hoje nós vamos cozinhar um: "+ comida + ", então, vamos precisar de:" + receita
+
+console.log(greeting)

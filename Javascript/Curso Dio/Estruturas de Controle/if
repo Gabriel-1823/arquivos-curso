@@ -1,0 +1,16 @@
+
+let esta_ligado = true
+
+if (esta_ligado==true)
+    console.log("tu é foda")
+
+else
+    console.log('tu não é foda')
+
+esta_ligado = false
+
+if (esta_ligado==true)
+    console.log("tu é foda")
+
+else
+    console.log('tu não é foda')

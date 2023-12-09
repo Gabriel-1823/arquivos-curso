@@ -1,0 +1,8 @@
+
+const nome = "Josicreide do Pythinho"
+let idade = "115"
+let numero = "(48) 94669-8449"
+const cpf = "078.432.849-87"
+let endereco = "Rua das Bananaeiras"
+
+let pensao_status = true
